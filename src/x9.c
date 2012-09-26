@@ -4,17 +4,23 @@
 #include "x9.h"
 
 static char *obvious_files[] = {
+    "autogen.sh",
+    "configure",
     "settings.py",
     "setup.py",
     "pom.xml",
+    "AndroidManifest.xml",
     "Makefile",
     NULL
 };
 
 static char *obvious_projects[] = {
+    "C/C++",
+    "C/C++",
     "Python/Django",
     "Python/Lib",
     "Java/Maven",
+    "Java/Android",
     "Makefile/Compatible",
     NULL
 };
