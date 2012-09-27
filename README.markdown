@@ -55,6 +55,10 @@ Help me! PR!
   </tbody>
 </table>
 
+## License
+
+BSD. Check LICENSE file.
+
 ## Contact
 
 felipecruz@loogica.net
