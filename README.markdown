@@ -1,6 +1,20 @@
 # x9
 
-x9 informs you about your code project
+* x9 informs you about the code inside your current folder.
+* x9 is a building block to other kinds of applications
+
+this is what x9 is today..
+
+## Install
+
+default procedure..
+
+```
+make
+sudo make install
+```
+
+If you want to uninstall use ``make uninstall``
 
 ## Running
 
