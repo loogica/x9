@@ -5,6 +5,8 @@
 
 this is what x9 is today..
 
+[![Build Status](https://secure.travis-ci.org/loogica/x9.png)](http://travis-ci.org/loogica/x9)
+
 ## Install
 
 default procedure..
