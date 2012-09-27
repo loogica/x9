@@ -2,6 +2,16 @@
 
 x9 informs you about your code project
 
+## Running
+
+If there is a settings.py in your current dir:
+
+```sh
+$ cd /project/path
+$ x9
+Python/Django
+```
+
 ## Supported Types
 
 Help me! PR!
