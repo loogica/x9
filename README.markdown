@@ -54,6 +54,18 @@ Help me! PR!
       <td>Makefile/Compatible</td>
       <td>Makefile</td>
     </tr>
+    <tr>
+      <td>Python/Requirements</td>
+      <td>requirements.txt</td>
+    </tr>
+    <tr>
+      <td>Git repository</td>
+      <td>.git</td>
+    </tr>
+    <tr>
+      <td>Hg Repository</td>
+      <td>.hg</td>
+    </tr>
   </tbody>
 </table>
 

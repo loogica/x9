@@ -11,6 +11,9 @@ static char *obvious_files[] = {
     "pom.xml",
     "AndroidManifest.xml",
     "Makefile",
+    "requirements.txt",
+    ".git",
+    ".hg",
     NULL
 };
 
@@ -22,6 +25,9 @@ static char *obvious_projects[] = {
     "Java/Maven",
     "Java/Android",
     "Makefile/Compatible",
+    "Python/Requirements",
+    "Git repository",
+    "Hg Repository",
     NULL
 };
 
