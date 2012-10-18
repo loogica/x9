@@ -14,6 +14,7 @@ static char *obvious_files[] = {
     "requirements.txt",
     ".git",
     ".hg",
+    ".travis.yml",
     NULL
 };
 
@@ -28,6 +29,7 @@ static char *obvious_projects[] = {
     "Python/Requirements",
     "Git repository",
     "Hg Repository",
+    "Travis-CI user",
     NULL
 };
 
