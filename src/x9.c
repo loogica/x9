@@ -23,8 +23,8 @@ static char *obvious_files[] = {
 static char *obvious_projects[] = {
     "C/C++",
     "C/C++",
-    "Python/Django",
-    "Python/Django",
+    "Django Project Root",
+    "Django Project Root",
     "Python Test module",
     "Python/Lib",
     "Java/Maven",
