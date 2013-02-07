@@ -1,5 +1,10 @@
 all:
 	gcc src/x9.c -o x9
+debug:
+	gcc src/x9.c -g -o x9
+leak:
+	gcc src/x9.c -g -o x9
+	valgrind --leak-check=full x9
 install:
 	cp x9 /usr/local/bin
 uninstall:
