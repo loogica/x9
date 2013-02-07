@@ -133,7 +133,7 @@ int
         return -1;
     }
 
-    search_files(root, ".", "", 0);
+    search_files(root, ".", ".", 0);
 
     return 0;
 }
