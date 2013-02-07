@@ -25,7 +25,10 @@ If there is a settings.py in your current dir:
 ```sh
 $ cd /project/path
 $ x9
-Python/Django
+Makefile/Compatible  /Makefile
+Python Test module   /some_app/tests/__init__.py
+Python/Django        /some_project/settings/__init__.py
+Python/Requirements  /requirements.txt
 ```
 
 ## Supported Types
@@ -43,8 +46,16 @@ Help me! PR!
       <td>settings.py</td>
     </tr>
     <tr>
+      <td>Python/Django</td>
+      <td>settings/__init__.py</td>
+    </tr>
+    <tr>
       <td>Python/Lib</td>
       <td>setup.py</td>
+    </tr>
+    <tr>
+      <td>Python Test Module</td>
+      <td>tests/__init__.py</td>
     </tr>
     <tr>
       <td>Java/Maven</td>
